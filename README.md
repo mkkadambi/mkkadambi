@@ -11,6 +11,7 @@ My background is in electronics, but I have been mostly working in ecommerce. No
 - 💞️ I’m looking to collaborate on any new technology with an interesting application
 
 - 📫 You can reach me at mkkadambi@gmail.com
+- LinkedIn: https://www.linkedin.com/in/muralikadambi/
 
 <!---
 mkkadambi/mkkadambi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
